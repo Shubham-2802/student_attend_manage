@@ -1,0 +1,53 @@
+*{margin:0;padding:0}
+body
+{
+	background-image:url('attend12.jpg');
+	padding-top:10vh;
+}
+
+.form-container{
+	width:250px;
+	height:auto;
+	padding:50px 30px;
+	background-color:#fff;
+	border-radius:10px;
+	box-shadow: 0 0 10px 0 #000;
+	margin:auto;
+	margin-top:80px;
+	position:relative;
+}
+
+.user-img{
+	background:url('user4.png') no-repeat;
+	width:90px;
+	height:90px;
+	background-size:100%;
+	position:absolute;
+	top:-40px;
+	left:113px
+	
+}
+
+ul.list{
+	list-style-type:none;
+	text-align:center;
+}
+
+ul.list li{
+	width:250px;
+	margin-bottom:15px;
+}
+
+ul.list li input{
+	width:250px;
+	text-align:center;
+	padding: 8px 0px;
+	border:none;
+	background-color:#d3d3d3;
+	border-radius:5px;
+}
+
+ul.list li input[type="submit"]{
+	background-color:#4690fb;
+	color:#fff;
+}

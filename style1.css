@@ -1,0 +1,11 @@
+.box1{
+	background-color: #333;
+	color: white;
+	border: 3px red solid;
+	border-bottom-width: 6px;
+	border-top-style: dotted;
+	padding-top: 10px;
+	padding-right: 10px;
+	padding-left: 10px;
+	margin-top: 20px;
+}
